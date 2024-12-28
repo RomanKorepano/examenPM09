@@ -1,0 +1,10 @@
+.text-block {
+    border: 2px solid #007BFF; 
+    padding: 20px; 
+    border-radius: 8px; 
+    background-color: #f0f8ff; 
+    font-size: 16px;
+    color: #333; 
+    max-width: 400px; 
+    margin: 20px auto; 
+}
